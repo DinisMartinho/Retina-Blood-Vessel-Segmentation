@@ -1,6 +1,7 @@
 # Retina Blood Vessel Segmentation
 
-This is a simple U-NET implementation using Pytorch, capable of segmenting the blood vessels in the human retina. It was implemented and trained inside Google Colab.
+This is a simple U-NET implementation using Pytorch, capable of segmenting the blood vessels in the human retina. The model was implemented and trained using Google Colab and can be used as a tool for ophthalmic research, clinical decision support, and drug development and testing.
+ 
 ## The segmentation of blood vessels in the human retina can be used in a number of applications, including:
  - Diagnosis and monitoring of eye diseases: Blood vessel segmentation can help in the early detection and monitoring of eye diseases such as diabetic retinopathy, glaucoma, and age-related macular degeneration.
  - Ophthalmic research: Blood vessel segmentation can aid in the research of eye diseases and help in the development of new treatments and therapies.
